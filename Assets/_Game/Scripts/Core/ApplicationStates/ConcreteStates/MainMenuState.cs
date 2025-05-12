@@ -17,9 +17,10 @@ namespace _Game.Scripts.Core.StateMachineService.ConcreteStates
         public async UniTask EnterAsync(CancellationToken cancellationToken = default)
         {
             Debug.Log("Entering Main Menu State");
-
-            // Load main menu UI
-            // Show main menu elements
+           
+            //Get main menu prefab
+            // show the main menu
+            
         }
 
         public UniTask UpdateAsync(CancellationToken cancellationToken = default)

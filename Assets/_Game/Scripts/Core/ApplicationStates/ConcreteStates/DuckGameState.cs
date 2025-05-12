@@ -9,6 +9,7 @@ namespace _Game.Scripts.Core.StateMachineService.ConcreteStates
     {
         private readonly IStateContext<AppState> _context;
 
+        
         public DuckGameState(IStateContext<AppState> context)
         {
             _context = context;
@@ -17,6 +18,7 @@ namespace _Game.Scripts.Core.StateMachineService.ConcreteStates
         public async UniTask EnterAsync(CancellationToken cancellationToken = default)
         {
             Debug.Log("Entering Duck Game State");
+            
         }
 
         public UniTask UpdateAsync(CancellationToken cancellationToken = default)

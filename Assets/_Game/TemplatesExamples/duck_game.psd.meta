@@ -1,127 +1,3214 @@
 fileFormatVersion: 2
 guid: a7ec56dca1f7a4589be03c6de7745a3d
-TextureImporter:
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b10b55a1aa6a1aa32521bc0cab59632e
+ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 13
-  mipmaps:
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
     mipMapMode: 0
-    enableMipMap: 0
-    sRGBTexture: 1
-    linearTexture: 0
+    enableMipMap: 1
     fadeOut: 0
     borderMipMap: 0
     mipMapsPreserveCoverage: 0
     alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
-  bumpmap:
     convertToNormalMap: 0
-    externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 0
-  streamingMipmaps: 0
-  streamingMipmapsPriority: 0
-  vTOnly: 0
-  ignoreMipmapLimit: 0
-  grayScaleToAlpha: 0
-  generateCubemap: 6
-  cubemapConvolution: 0
-  seamlessCubemap: 0
-  textureFormat: 1
-  maxTextureSize: 2048
-  textureSettings:
-    serializedVersion: 2
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
-  nPOTScale: 0
-  lightmap: 0
-  compressionQuality: 50
-  spriteMode: 1
-  spriteExtrude: 1
-  spriteMeshType: 1
-  alignment: 0
-  spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
-  alphaUsage: 1
-  alphaIsTransparency: 1
-  spriteTessellationDetail: -1
-  textureType: 8
-  textureShape: 1
-  singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
-  maxTextureSizeSet: 0
-  compressionQualitySet: 0
-  textureFormatSet: 0
-  ignorePngGamma: 0
-  applyGammaDecoding: 0
-  swizzle: 50462976
-  cookieLightType: 0
-  platformSettings:
-  - serializedVersion: 3
-    buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  spriteSheet:
-    serializedVersion: 2
-    sprites: []
-    outline: []
-    physicsShape: []
-    bones: []
-    spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: duck_game_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 2688
+      height: 1242
+    spriteID: 3ddfb3c1d4a9546cf880668f767ddc5e
+    spriteBone: []
+    spriteOutline: []
     vertices: []
+    spritePhysicsOutline: []
     indices: 
     edges: []
-    weights: []
-    secondaryTextures: []
-    nameFileIdTable: {}
-  mipmapLimitGroupName: 
-  pSDRemoveMatte: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Rounded Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3959
+      y: 2630
+      width: 85
+      height: 91
+    spriteID: f06c81773a75143a99168b7af47745ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Rounded Rectangle 1_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3827
+      y: 2335
+      width: 86
+      height: 91
+    spriteID: cdab3995decc646cfb98038338df6c5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Rounded Rectangle 1_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3933
+      y: 2335
+      width: 86
+      height: 91
+    spriteID: 26465a67f17964cc79bf90bd347d16fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Rounded Rectangle 1_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3959
+      y: 2519
+      width: 86
+      height: 91
+    spriteID: 4fde9e1475703423e96792e389b6056b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Rounded Rectangle 1_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3948
+      y: 2840
+      width: 85
+      height: 91
+    spriteID: c4d8216076b9543d3bfdc5837cf535ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Hand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3843
+      y: 3460
+      width: 231
+      height: 197
+    spriteID: 40f3ae126297047efbcc5e57c8d689d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3573
+      y: 4930
+      width: 351
+      height: 80
+    spriteID: 35c6a213015fd4cce85282d95f53c903
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3486
+      y: 2519
+      width: 453
+      height: 221
+    spriteID: af3fa75b460c14fbeaecaa91d630b371
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Ellipse 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3176
+      y: 4815
+      width: 377
+      height: 95
+    spriteID: ff2813cee32a64e5392e20b567dc4072
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Rectangle 1_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2758
+      y: 4558
+      width: 351
+      height: 80
+    spriteID: 9047c607c25944ad9bb96ab858ce768c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object1_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2909
+      y: 3460
+      width: 447
+      height: 215
+    spriteID: d3601ddde287a46f88a49b955196a5dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Ellipse 1_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3573
+      y: 4815
+      width: 377
+      height: 95
+    spriteID: 3fa16c39ab47e4bfd875004b7be7a530
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Rectangle 1_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3129
+      y: 4558
+      width: 351
+      height: 80
+    spriteID: b17502403b8554e60ac4daabfdcaaf31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object1_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3376
+      y: 3460
+      width: 447
+      height: 215
+    spriteID: 783a9f75301c040278b1a25b0922d5be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Ellipse 1_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3176
+      y: 4930
+      width: 377
+      height: 95
+    spriteID: bdab9844b58ad4899b911e79f2f10b1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3970
+      y: 4815
+      width: 106
+      height: 91
+    spriteID: d56b4d60aa57448e1bee461ecb465025
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3486
+      y: 2179
+      width: 321
+      height: 320
+    spriteID: 5898a815088e7426dbdccbeb9499c863
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Ellipse 1_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3123
+      y: 2641
+      width: 319
+      height: 80
+    spriteID: 50545c513c9b14af4aa91826ff9815eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3944
+      y: 4930
+      width: 106
+      height: 91
+    spriteID: cc71a12fda27b4f888f9eb7d8206a890
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3123
+      y: 2179
+      width: 343
+      height: 342
+    spriteID: ddb544bd82263440591f04920737dfc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Ellipse 1_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3123
+      y: 2541
+      width: 320
+      height: 80
+    spriteID: eb1c1b166ef0f4ca6aa41b006cc97b69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2758
+      y: 2179
+      width: 345
+      height: 344
+    spriteID: 6b3df66fdbb7d47cb94047016ae2f525
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Ellipse 1_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2758
+      y: 2721
+      width: 343
+      height: 84
+    spriteID: f1ae3d94136b6409ea9c2fd258f13736
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: ''''
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 3994
+      width: 1818
+      height: 544
+    spriteID: 20446f846b9964bbcb0e69b8a1abaaeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Rectangle 1_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 3460
+      width: 2474
+      height: 514
+    spriteID: c3351da5ab5824591a12793763834e8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 4815
+      width: 2728
+      height: 235
+    spriteID: e62341089c3714fd59fb0ced2b9c5e2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 4558
+      width: 2728
+      height: 237
+    spriteID: 73531aedf6a1a4656927f1659b15ac82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2758
+      y: 2543
+      width: 285
+      height: 158
+    spriteID: a6a2bc0911426427db5b9a3f3016be96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 2840
+      width: 2728
+      height: 600
+    spriteID: 22e174e54aac94078ae8f0d97d9c814c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Rectangle 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 1312
+      width: 2430
+      height: 847
+    spriteID: 2ea9eef1961214825ae393207556da9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 2179
+      width: 2728
+      height: 641
+    spriteID: 5e6e32612db7f4de6961615625bfcf38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2504
+      y: 3460
+      width: 385
+      height: 257
+    spriteID: f98d3693d80bb4fad9ad4638894ac3cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3389
+      y: 2840
+      width: 539
+      height: 542
+    spriteID: 9a782ccec32764046909b032a1945bc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object copy_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2758
+      y: 2840
+      width: 611
+      height: 515
+    spriteID: 860e43882f50f4a87b61a3fa973c4b45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Stone
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3827
+      y: 2179
+      width: 215
+      height: 136
+    spriteID: a0f0672f146ba46538f9d981b41253a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2758
+      y: 4815
+      width: 398
+      height: 145
+    spriteID: d167c8005d4ad4b89ad0073f92293c6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 10
+      width: 2728
+      height: 1282
+    spriteID: d5441556a88d940629999a24bdd5c791
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Rounded Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3959
+      y: 2630
+      width: 85
+      height: 91
+    spriteID: f06c81773a75143a99168b7af47745ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3955, y: 2626}
+    spritePosition: {x: 2596, y: 1158}
+  - name: Rounded Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3827
+      y: 2335
+      width: 86
+      height: 91
+    spriteID: cdab3995decc646cfb98038338df6c5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3823, y: 2331}
+    spritePosition: {x: 2523, y: 1158}
+  - name: Rounded Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3933
+      y: 2335
+      width: 86
+      height: 91
+    spriteID: 26465a67f17964cc79bf90bd347d16fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3930, y: 2331}
+    spritePosition: {x: 2450, y: 1158}
+  - name: Rounded Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3959
+      y: 2519
+      width: 86
+      height: 91
+    spriteID: 4fde9e1475703423e96792e389b6056b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3956, y: 2515}
+    spritePosition: {x: 2377, y: 1158}
+  - name: Rounded Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3948
+      y: 2840
+      width: 85
+      height: 91
+    spriteID: c4d8216076b9543d3bfdc5837cf535ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3944, y: 2836}
+    spritePosition: {x: 2305, y: 1158}
+  - name: Hand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3843
+      y: 3460
+      width: 231
+      height: 197
+    spriteID: 40f3ae126297047efbcc5e57c8d689d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3843, y: 3460}
+    spritePosition: {x: 1452, y: 201}
+  - name: Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3573
+      y: 4930
+      width: 351
+      height: 80
+    spriteID: 35c6a213015fd4cce85282d95f53c903
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3572, y: 4929}
+    spritePosition: {x: 589, y: 829}
+  - name: Vector Smart Object1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3486
+      y: 2519
+      width: 453
+      height: 221
+    spriteID: af3fa75b460c14fbeaecaa91d630b371
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3486, y: 2519}
+    spritePosition: {x: 537, y: 726}
+  - name: Ellipse 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3176
+      y: 4815
+      width: 377
+      height: 95
+    spriteID: ff2813cee32a64e5392e20b567dc4072
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3175, y: 4814}
+    spritePosition: {x: 576, y: 712}
+  - name: Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2758
+      y: 4558
+      width: 351
+      height: 80
+    spriteID: 9047c607c25944ad9bb96ab858ce768c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2757, y: 4557}
+    spritePosition: {x: 1178, y: 829}
+  - name: Vector Smart Object1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2909
+      y: 3460
+      width: 447
+      height: 215
+    spriteID: d3601ddde287a46f88a49b955196a5dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2909, y: 3460}
+    spritePosition: {x: 1130, y: 729}
+  - name: Ellipse 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3573
+      y: 4815
+      width: 377
+      height: 95
+    spriteID: 3fa16c39ab47e4bfd875004b7be7a530
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3572, y: 4814}
+    spritePosition: {x: 1166, y: 712}
+  - name: Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3129
+      y: 4558
+      width: 351
+      height: 80
+    spriteID: b17502403b8554e60ac4daabfdcaaf31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3128, y: 4557}
+    spritePosition: {x: 1767, y: 829}
+  - name: Vector Smart Object1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3376
+      y: 3460
+      width: 447
+      height: 215
+    spriteID: 783a9f75301c040278b1a25b0922d5be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3376, y: 3460}
+    spritePosition: {x: 1719, y: 729}
+  - name: Ellipse 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3176
+      y: 4930
+      width: 377
+      height: 95
+    spriteID: bdab9844b58ad4899b911e79f2f10b1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3175, y: 4929}
+    spritePosition: {x: 1755, y: 712}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3970
+      y: 4815
+      width: 106
+      height: 91
+    spriteID: d56b4d60aa57448e1bee461ecb465025
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3970, y: 4815}
+    spritePosition: {x: 2117, y: 487}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3486
+      y: 2179
+      width: 321
+      height: 320
+    spriteID: 5898a815088e7426dbdccbeb9499c863
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3486, y: 2179}
+    spritePosition: {x: 1902, y: 310}
+  - name: Ellipse 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3123
+      y: 2641
+      width: 319
+      height: 80
+    spriteID: 50545c513c9b14af4aa91826ff9815eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3121, y: 2640}
+    spritePosition: {x: 1898, y: 290}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3944
+      y: 4930
+      width: 106
+      height: 91
+    spriteID: cc71a12fda27b4f888f9eb7d8206a890
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3944, y: 4930}
+    spritePosition: {x: 602, y: 465}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3123
+      y: 2179
+      width: 343
+      height: 342
+    spriteID: ddb544bd82263440591f04920737dfc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3123, y: 2179}
+    spritePosition: {x: 591, y: 277}
+  - name: Ellipse 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3123
+      y: 2541
+      width: 320
+      height: 80
+    spriteID: eb1c1b166ef0f4ca6aa41b006cc97b69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3122, y: 2540}
+    spritePosition: {x: 608, y: 268}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2758
+      y: 2179
+      width: 345
+      height: 344
+    spriteID: 6b3df66fdbb7d47cb94047016ae2f525
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2758, y: 2179}
+    spritePosition: {x: 1175, y: 247}
+  - name: Ellipse 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2758
+      y: 2721
+      width: 343
+      height: 84
+    spriteID: f1ae3d94136b6409ea9c2fd258f13736
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2757, y: 2720}
+    spritePosition: {x: 1182, y: 225}
+  - name: ''''
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 3994
+      width: 1818
+      height: 544
+    spriteID: 20446f846b9964bbcb0e69b8a1abaaeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 9, y: 3993}
+    spritePosition: {x: 527, y: 440}
+  - name: Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 3460
+      width: 2474
+      height: 514
+    spriteID: c3351da5ab5824591a12793763834e8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 9, y: 3459}
+    spritePosition: {x: 254, y: 245}
+  - name: Vector Smart Object copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 4815
+      width: 2728
+      height: 235
+    spriteID: e62341089c3714fd59fb0ced2b9c5e2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10, y: 4813}
+    spritePosition: {x: 0, y: 437}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 4558
+      width: 2728
+      height: 237
+    spriteID: 73531aedf6a1a4656927f1659b15ac82
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10, y: 4558}
+    spritePosition: {x: 0, y: 448}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2758
+      y: 2543
+      width: 285
+      height: 158
+    spriteID: a6a2bc0911426427db5b9a3f3016be96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2758, y: 2543}
+    spritePosition: {x: 326, y: 348}
+  - name: Vector Smart Object copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 2840
+      width: 2728
+      height: 600
+    spriteID: 22e174e54aac94078ae8f0d97d9c814c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10, y: 2840}
+    spritePosition: {x: 0, y: 0}
+  - name: Rectangle 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 1312
+      width: 2430
+      height: 847
+    spriteID: 2ea9eef1961214825ae393207556da9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 9, y: 1312}
+    spritePosition: {x: 63, y: 0}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 2179
+      width: 2728
+      height: 641
+    spriteID: 5e6e32612db7f4de6961615625bfcf38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10, y: 2179}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2504
+      y: 3460
+      width: 385
+      height: 257
+    spriteID: f98d3693d80bb4fad9ad4638894ac3cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2504, y: 3460}
+    spritePosition: {x: 2320, y: 659}
+  - name: Vector Smart Object copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3389
+      y: 2840
+      width: 539
+      height: 542
+    spriteID: 9a782ccec32764046909b032a1945bc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3389, y: 2840}
+    spritePosition: {x: 0, y: 740}
+  - name: Vector Smart Object copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2758
+      y: 2840
+      width: 611
+      height: 515
+    spriteID: 860e43882f50f4a87b61a3fa973c4b45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2758, y: 2840}
+    spritePosition: {x: 2117, y: 767}
+  - name: Stone
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3827
+      y: 2179
+      width: 215
+      height: 136
+    spriteID: a0f0672f146ba46538f9d981b41253a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3827, y: 2179}
+    spritePosition: {x: 337, y: 767}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2758
+      y: 4815
+      width: 398
+      height: 145
+    spriteID: d167c8005d4ad4b89ad0073f92293c6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2758, y: 4815}
+    spritePosition: {x: 1330, y: 863}
+  - name: Vector Smart Object11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 10
+      width: 2728
+      height: 1282
+    spriteID: d5441556a88d940629999a24bdd5c791
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10, y: 10}
+    spritePosition: {x: 0, y: 0}
+  rigSpriteImportData:
+  - name: ''''
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 3994
+      width: 1818
+      height: 544
+    spriteID: 9433bb3a4aeb34b6eafdd11c2c69a372
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 9, y: 3993}
+    spritePosition: {x: 527, y: 440}
+  - name: Rectangle 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 3460
+      width: 2474
+      height: 514
+    spriteID: 639b6be01da3246ad9a47fe5ef64161b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 9, y: 3459}
+    spritePosition: {x: 254, y: 245}
+  - name: Vector Smart Object copy_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24332
+      y: -7491
+      width: 611
+      height: 515
+    spriteID: 567d8e622936c4560bc9d9cfd02a1d8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2758, y: 2840}
+    spritePosition: {x: 2117, y: 767}
+  - name: Vector Smart Object
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 4998
+      width: 398
+      height: 145
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3163, y: 2179}
+    spritePosition: {x: 1330, y: 863}
+  - name: Vector Smart Object_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3419
+      y: 2069
+      width: 245
+      height: 118
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3419, y: 2069}
+    spritePosition: {x: 326, y: 348}
+  - name: Vector Smart Object copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 2840
+      width: 2728
+      height: 600
+    spriteID: 613e97dcaab654f979712a2164d60bea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10, y: 2840}
+    spritePosition: {x: 0, y: 0}
+  - name: Rectangle 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 1312
+      width: 2430
+      height: 847
+    spriteID: f635609c9937249a7a4fbd66fd52e266
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 9, y: 1312}
+    spritePosition: {x: 63, y: 0}
+  - name: Vector Smart Object_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2069
+      width: 2688
+      height: 601
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2069}
+    spritePosition: {x: 0, y: 0}
+  - name: Vector Smart Object_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2700
+      y: 2069
+      width: 345
+      height: 217
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2700, y: 2069}
+    spritePosition: {x: 2320, y: 659}
+  - name: Vector Smart Object copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3389
+      y: 2840
+      width: 539
+      height: 542
+    spriteID: 3267319f26f19464e92f948fb53441ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3389, y: 2840}
+    spritePosition: {x: 0, y: 740}
+  - name: Vector Smart Object copy_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 24268
+      y: -8023
+      width: 2688
+      height: 195
+    spriteID: 567d8e622936c4560bc9d9cfd02a1d8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2700, y: 2678}
+    spritePosition: {x: 2117, y: 767}
+  - name: Stone
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2758
+      y: 4815
+      width: 215
+      height: 136
+    spriteID: 44e0a9a40ae8b421fa8d17c4cb57ab6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2758, y: 4815}
+    spritePosition: {x: 337, y: 767}
+  - name: Vector Smart Object_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3053
+      y: 2069
+      width: 358
+      height: 105
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3053, y: 2069}
+    spritePosition: {x: 1330, y: 863}
+  - name: Vector Smart Object11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 10
+      y: 10
+      width: 2728
+      height: 1282
+    spriteID: 1ec2178e2298c467981d95f7df4c9a74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 10, y: 10}
+    spritePosition: {x: 0, y: 0}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 1
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 10
+  spriteSizeExpand: 40
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 1
+  mosaicPSDLayers:
+  - name: Points
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 653
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Rounded Rectangle 1
+    spriteName: Rounded Rectangle 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f06c81773a75143a99168b7af47745ad
+    layerID: 651
+    mosaicPosition: {x: 3959, y: 2630}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rounded Rectangle 1
+    spriteName: Rounded Rectangle 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cdab3995decc646cfb98038338df6c5f
+    layerID: 648
+    mosaicPosition: {x: 3827, y: 2335}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rounded Rectangle 1
+    spriteName: Rounded Rectangle 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 26465a67f17964cc79bf90bd347d16fb
+    layerID: 645
+    mosaicPosition: {x: 3933, y: 2335}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rounded Rectangle 1
+    spriteName: Rounded Rectangle 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4fde9e1475703423e96792e389b6056b
+    layerID: 642
+    mosaicPosition: {x: 3959, y: 2519}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rounded Rectangle 1
+    spriteName: Rounded Rectangle 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c4d8216076b9543d3bfdc5837cf535ff
+    layerID: 639
+    mosaicPosition: {x: 3948, y: 2840}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Hand
+    spriteName: Hand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 40f3ae126297047efbcc5e57c8d689d9
+    layerID: 589
+    mosaicPosition: {x: 3843, y: 3460}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Basket1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 581
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Rectangle 1
+    spriteName: Rectangle 1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 35c6a213015fd4cce85282d95f53c903
+    layerID: 580
+    mosaicPosition: {x: 3573, y: 4930}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object1
+    spriteName: Vector Smart Object1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: af3fa75b460c14fbeaecaa91d630b371
+    layerID: 579
+    mosaicPosition: {x: 3486, y: 2519}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: ff2813cee32a64e5392e20b567dc4072
+    layerID: 578
+    mosaicPosition: {x: 3176, y: 4815}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Basket2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 576
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Rectangle 1
+    spriteName: Rectangle 1
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 9047c607c25944ad9bb96ab858ce768c
+    layerID: 575
+    mosaicPosition: {x: 2758, y: 4558}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object1
+    spriteName: Vector Smart Object1
+    isGroup: 0
+    parentIndex: 11
+    spriteID: d3601ddde287a46f88a49b955196a5dc
+    layerID: 574
+    mosaicPosition: {x: 2909, y: 3460}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 3fa16c39ab47e4bfd875004b7be7a530
+    layerID: 573
+    mosaicPosition: {x: 3573, y: 4815}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Basket3
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 586
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Rectangle 1
+    spriteName: Rectangle 1
+    isGroup: 0
+    parentIndex: 15
+    spriteID: b17502403b8554e60ac4daabfdcaaf31
+    layerID: 585
+    mosaicPosition: {x: 3129, y: 4558}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object1
+    spriteName: Vector Smart Object1
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 783a9f75301c040278b1a25b0922d5be
+    layerID: 584
+    mosaicPosition: {x: 3376, y: 3460}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 15
+    spriteID: bdab9844b58ad4899b911e79f2f10b1a
+    layerID: 583
+    mosaicPosition: {x: 3176, y: 4930}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Duck1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 571
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 19
+    spriteID: d56b4d60aa57448e1bee461ecb465025
+    layerID: 570
+    mosaicPosition: {x: 3970, y: 4815}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 19
+    spriteID: 5898a815088e7426dbdccbeb9499c863
+    layerID: 569
+    mosaicPosition: {x: 3486, y: 2179}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 19
+    spriteID: 50545c513c9b14af4aa91826ff9815eb
+    layerID: 568
+    mosaicPosition: {x: 3123, y: 2641}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Duck2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 566
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 23
+    spriteID: cc71a12fda27b4f888f9eb7d8206a890
+    layerID: 565
+    mosaicPosition: {x: 3944, y: 4930}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 23
+    spriteID: ddb544bd82263440591f04920737dfc6
+    layerID: 564
+    mosaicPosition: {x: 3123, y: 2179}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 23
+    spriteID: eb1c1b166ef0f4ca6aa41b006cc97b69
+    layerID: 563
+    mosaicPosition: {x: 3123, y: 2541}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Duck3
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 561
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 27
+    spriteID: 6b3df66fdbb7d47cb94047016ae2f525
+    layerID: 560
+    mosaicPosition: {x: 2758, y: 2179}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 27
+    spriteID: f1ae3d94136b6409ea9c2fd258f13736
+    layerID: 559
+    mosaicPosition: {x: 2758, y: 2721}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Back
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 635
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ''''
+    spriteName: ''''
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 20446f846b9964bbcb0e69b8a1abaaeb
+    layerID: 557
+    mosaicPosition: {x: 10, y: 3994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rectangle 1
+    spriteName: Rectangle 1
+    isGroup: 0
+    parentIndex: 30
+    spriteID: c3351da5ab5824591a12793763834e8d
+    layerID: 556
+    mosaicPosition: {x: 10, y: 3460}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object copy
+    spriteName: Vector Smart Object copy
+    isGroup: 0
+    parentIndex: 30
+    spriteID: e62341089c3714fd59fb0ced2b9c5e2f
+    layerID: 555
+    mosaicPosition: {x: 10, y: 4815}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 73531aedf6a1a4656927f1659b15ac82
+    layerID: 554
+    mosaicPosition: {x: 10, y: 4558}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 30
+    spriteID: a6a2bc0911426427db5b9a3f3016be96
+    layerID: 553
+    mosaicPosition: {x: 2758, y: 2543}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object copy 2
+    spriteName: Vector Smart Object copy 2
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 22e174e54aac94078ae8f0d97d9c814c
+    layerID: 552
+    mosaicPosition: {x: 10, y: 2840}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rectangle 2
+    spriteName: Rectangle 2
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 2ea9eef1961214825ae393207556da9a
+    layerID: 551
+    mosaicPosition: {x: 10, y: 1312}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 5e6e32612db7f4de6961615625bfcf38
+    layerID: 550
+    mosaicPosition: {x: 10, y: 2179}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 30
+    spriteID: f98d3693d80bb4fad9ad4638894ac3cb
+    layerID: 549
+    mosaicPosition: {x: 2504, y: 3460}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object copy 3
+    spriteName: Vector Smart Object copy 3
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 9a782ccec32764046909b032a1945bc2
+    layerID: 548
+    mosaicPosition: {x: 3389, y: 2840}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object copy
+    spriteName: Vector Smart Object copy
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 860e43882f50f4a87b61a3fa973c4b45
+    layerID: 547
+    mosaicPosition: {x: 2758, y: 2840}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stone
+    spriteName: Stone
+    isGroup: 0
+    parentIndex: 30
+    spriteID: a0f0672f146ba46538f9d981b41253a6
+    layerID: 546
+    mosaicPosition: {x: 3827, y: 2179}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 30
+    spriteID: d167c8005d4ad4b89ad0073f92293c6a
+    layerID: 544
+    mosaicPosition: {x: 2758, y: 4815}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object11
+    spriteName: Vector Smart Object11
+    isGroup: 0
+    parentIndex: 30
+    spriteID: d5441556a88d940629999a24bdd5c791
+    layerID: 543
+    mosaicPosition: {x: 10, y: 10}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  rigPSDLayers:
+  - name: Points
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 802ed13e7c7704c2d9c406c6c0867793
+    layerID: 653
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Rounded Rectangle 1
+    spriteName: Rounded Rectangle 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a9453141558834c60a49016eb0469bf2
+    layerID: 651
+    mosaicPosition: {x: 4020, y: 4504}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Rounded Rectangle 1
+    spriteName: Rounded Rectangle 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a9453141558834c60a49016eb0469bf2
+    layerID: 648
+    mosaicPosition: {x: 4020, y: 4504}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Rounded Rectangle 1
+    spriteName: Rounded Rectangle 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a9453141558834c60a49016eb0469bf2
+    layerID: 645
+    mosaicPosition: {x: 4020, y: 4504}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Rounded Rectangle 1
+    spriteName: Rounded Rectangle 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a9453141558834c60a49016eb0469bf2
+    layerID: 642
+    mosaicPosition: {x: 4020, y: 4504}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Rounded Rectangle 1
+    spriteName: Rounded Rectangle 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a9453141558834c60a49016eb0469bf2
+    layerID: 639
+    mosaicPosition: {x: 4020, y: 4504}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Hand
+    spriteName: Hand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d2bd9e2a02d5f4e26834a2a268ca8f2b
+    layerID: 589
+    mosaicPosition: {x: 3786, y: 2990}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Basket1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: de0a624b2037a435fa3de7f9f2dfbcbf
+    layerID: 581
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Rectangle 1
+    spriteName: Rectangle 1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 639b6be01da3246ad9a47fe5ef64161b
+    layerID: 580
+    mosaicPosition: {x: 3279, y: 3188}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object1
+    spriteName: Vector Smart Object1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 7a4473c82a2ba41adb93aed8f155d350
+    layerID: 579
+    mosaicPosition: {x: 3653, y: 2069}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: f942a65cd6979452d8bd000dc4fbf8aa
+    layerID: 578
+    mosaicPosition: {x: 3300, y: 2294}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Basket2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: c3164ba300cea4c9a83545581521881b
+    layerID: 576
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Rectangle 1
+    spriteName: Rectangle 1
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 639b6be01da3246ad9a47fe5ef64161b
+    layerID: 575
+    mosaicPosition: {x: 3279, y: 3188}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object1
+    spriteName: Vector Smart Object1
+    isGroup: 0
+    parentIndex: 11
+    spriteID: 7a4473c82a2ba41adb93aed8f155d350
+    layerID: 574
+    mosaicPosition: {x: 3653, y: 2069}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 11
+    spriteID: f942a65cd6979452d8bd000dc4fbf8aa
+    layerID: 573
+    mosaicPosition: {x: 3300, y: 2294}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Basket3
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 5304a9ef5a27846ce9f9c3c583aefa32
+    layerID: 586
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Rectangle 1
+    spriteName: Rectangle 1
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 639b6be01da3246ad9a47fe5ef64161b
+    layerID: 585
+    mosaicPosition: {x: 3279, y: 3188}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object1
+    spriteName: Vector Smart Object1
+    isGroup: 0
+    parentIndex: 15
+    spriteID: 7a4473c82a2ba41adb93aed8f155d350
+    layerID: 584
+    mosaicPosition: {x: 3653, y: 2069}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 15
+    spriteID: f942a65cd6979452d8bd000dc4fbf8aa
+    layerID: 583
+    mosaicPosition: {x: 3300, y: 2294}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Duck1
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 113010d6ed55746c4ad468bd84a8a482
+    layerID: 571
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 19
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    layerID: 570
+    mosaicPosition: {x: 4019, y: 2258}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 19
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    layerID: 569
+    mosaicPosition: {x: 4019, y: 2258}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 19
+    spriteID: f942a65cd6979452d8bd000dc4fbf8aa
+    layerID: 568
+    mosaicPosition: {x: 3300, y: 2294}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Duck2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 29c3bc549e3394430afb8dff6d759dd6
+    layerID: 566
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 23
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    layerID: 565
+    mosaicPosition: {x: 4019, y: 2258}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 23
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    layerID: 564
+    mosaicPosition: {x: 4019, y: 2258}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 23
+    spriteID: f942a65cd6979452d8bd000dc4fbf8aa
+    layerID: 563
+    mosaicPosition: {x: 3300, y: 2294}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Duck3
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 9cdc3a95ede2b4837975004f76ce35b5
+    layerID: 561
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 27
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    layerID: 560
+    mosaicPosition: {x: 4019, y: 2258}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Ellipse 1
+    spriteName: Ellipse 1
+    isGroup: 0
+    parentIndex: 27
+    spriteID: f942a65cd6979452d8bd000dc4fbf8aa
+    layerID: 559
+    mosaicPosition: {x: 3300, y: 2294}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Back
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: aea47b96d89524561a8477b80fb98b1e
+    layerID: 635
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ''''
+    spriteName: ''''
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 9433bb3a4aeb34b6eafdd11c2c69a372
+    layerID: 557
+    mosaicPosition: {x: 10, y: 3994}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rectangle 1
+    spriteName: Rectangle 1
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 639b6be01da3246ad9a47fe5ef64161b
+    layerID: 556
+    mosaicPosition: {x: 10, y: 3460}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object copy
+    spriteName: Vector Smart Object copy
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 567d8e622936c4560bc9d9cfd02a1d8c
+    layerID: 555
+    mosaicPosition: {x: 10, y: 4815}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object
+    isGroup: 0
+    parentIndex: 30
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    layerID: 554
+    mosaicPosition: {x: 10, y: 4558}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_1
+    isGroup: 0
+    parentIndex: 30
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    layerID: 553
+    mosaicPosition: {x: 3581, y: 2179}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object copy 2
+    spriteName: Vector Smart Object copy 2
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 613e97dcaab654f979712a2164d60bea
+    layerID: 552
+    mosaicPosition: {x: 10, y: 2840}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rectangle 2
+    spriteName: Rectangle 2
+    isGroup: 0
+    parentIndex: 30
+    spriteID: f635609c9937249a7a4fbd66fd52e266
+    layerID: 551
+    mosaicPosition: {x: 10, y: 1312}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_2
+    isGroup: 0
+    parentIndex: 30
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    layerID: 550
+    mosaicPosition: {x: 10, y: 2179}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_3
+    isGroup: 0
+    parentIndex: 30
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    layerID: 549
+    mosaicPosition: {x: 2758, y: 2179}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object copy 3
+    spriteName: Vector Smart Object copy 3
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 3267319f26f19464e92f948fb53441ef
+    layerID: 548
+    mosaicPosition: {x: 3389, y: 2840}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object copy
+    spriteName: Vector Smart Object copy_1
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 567d8e622936c4560bc9d9cfd02a1d8c
+    layerID: 547
+    mosaicPosition: {x: 2758, y: 2840}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stone
+    spriteName: Stone
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 44e0a9a40ae8b421fa8d17c4cb57ab6d
+    layerID: 546
+    mosaicPosition: {x: 2758, y: 4815}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object
+    spriteName: Vector Smart Object_4
+    isGroup: 0
+    parentIndex: 30
+    spriteID: e0b6eb1248f1345e58fccfde003f88c3
+    layerID: 544
+    mosaicPosition: {x: 3163, y: 2179}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Vector Smart Object11
+    spriteName: Vector Smart Object11
+    isGroup: 0
+    parentIndex: 30
+    spriteID: 1ec2178e2298c467981d95f7df4c9a74
+    layerID: 543
+    mosaicPosition: {x: 10, y: 10}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting:
+  - spriteId: 00000000000000000000000000000000
+    name: Points
+    layerId: 653
+    flatten: 0
+    isGroup: 1
+    importLayer: 1
+  - spriteId: f06c81773a75143a99168b7af47745ad
+    name: Rounded Rectangle 1
+    layerId: 651
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: cdab3995decc646cfb98038338df6c5f
+    name: Rounded Rectangle 1
+    layerId: 648
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 26465a67f17964cc79bf90bd347d16fb
+    name: Rounded Rectangle 1
+    layerId: 645
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 4fde9e1475703423e96792e389b6056b
+    name: Rounded Rectangle 1
+    layerId: 642
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: c4d8216076b9543d3bfdc5837cf535ff
+    name: Rounded Rectangle 1
+    layerId: 639
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 40f3ae126297047efbcc5e57c8d689d9
+    name: Hand
+    layerId: 589
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 00000000000000000000000000000000
+    name: Basket1
+    layerId: 581
+    flatten: 0
+    isGroup: 1
+    importLayer: 1
+  - spriteId: 35c6a213015fd4cce85282d95f53c903
+    name: Rectangle 1
+    layerId: 580
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: af3fa75b460c14fbeaecaa91d630b371
+    name: Vector Smart Object1
+    layerId: 579
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: ff2813cee32a64e5392e20b567dc4072
+    name: Ellipse 1
+    layerId: 578
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 00000000000000000000000000000000
+    name: Basket2
+    layerId: 576
+    flatten: 0
+    isGroup: 1
+    importLayer: 1
+  - spriteId: 9047c607c25944ad9bb96ab858ce768c
+    name: Rectangle 1
+    layerId: 575
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 3fa16c39ab47e4bfd875004b7be7a530
+    name: Ellipse 1
+    layerId: 573
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 00000000000000000000000000000000
+    name: Basket3
+    layerId: 586
+    flatten: 0
+    isGroup: 1
+    importLayer: 1
+  - spriteId: b17502403b8554e60ac4daabfdcaaf31
+    name: Rectangle 1
+    layerId: 585
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 783a9f75301c040278b1a25b0922d5be
+    name: Vector Smart Object1
+    layerId: 584
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: bdab9844b58ad4899b911e79f2f10b1a
+    name: Ellipse 1
+    layerId: 583
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 00000000000000000000000000000000
+    name: Duck1
+    layerId: 571
+    flatten: 0
+    isGroup: 1
+    importLayer: 1
+  - spriteId: d56b4d60aa57448e1bee461ecb465025
+    name: Vector Smart Object
+    layerId: 570
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 5898a815088e7426dbdccbeb9499c863
+    name: Vector Smart Object
+    layerId: 569
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 50545c513c9b14af4aa91826ff9815eb
+    name: Ellipse 1
+    layerId: 568
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 00000000000000000000000000000000
+    name: Duck2
+    layerId: 566
+    flatten: 0
+    isGroup: 1
+    importLayer: 1
+  - spriteId: cc71a12fda27b4f888f9eb7d8206a890
+    name: Vector Smart Object
+    layerId: 565
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: ddb544bd82263440591f04920737dfc6
+    name: Vector Smart Object
+    layerId: 564
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: eb1c1b166ef0f4ca6aa41b006cc97b69
+    name: Ellipse 1
+    layerId: 563
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 00000000000000000000000000000000
+    name: Duck3
+    layerId: 561
+    flatten: 0
+    isGroup: 1
+    importLayer: 1
+  - spriteId: 6b3df66fdbb7d47cb94047016ae2f525
+    name: Vector Smart Object
+    layerId: 560
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: f1ae3d94136b6409ea9c2fd258f13736
+    name: Ellipse 1
+    layerId: 559
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 00000000000000000000000000000000
+    name: Back
+    layerId: 635
+    flatten: 0
+    isGroup: 1
+    importLayer: 1
+  - spriteId: 20446f846b9964bbcb0e69b8a1abaaeb
+    name: ''''
+    layerId: 557
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: c3351da5ab5824591a12793763834e8d
+    name: Rectangle 1
+    layerId: 556
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: e62341089c3714fd59fb0ced2b9c5e2f
+    name: Vector Smart Object copy
+    layerId: 555
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 73531aedf6a1a4656927f1659b15ac82
+    name: Vector Smart Object
+    layerId: 554
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: a6a2bc0911426427db5b9a3f3016be96
+    name: Vector Smart Object
+    layerId: 553
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 22e174e54aac94078ae8f0d97d9c814c
+    name: Vector Smart Object copy 2
+    layerId: 552
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 2ea9eef1961214825ae393207556da9a
+    name: Rectangle 2
+    layerId: 551
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 5e6e32612db7f4de6961615625bfcf38
+    name: Vector Smart Object
+    layerId: 550
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: f98d3693d80bb4fad9ad4638894ac3cb
+    name: Vector Smart Object
+    layerId: 549
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 9a782ccec32764046909b032a1945bc2
+    name: Vector Smart Object copy 3
+    layerId: 548
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 860e43882f50f4a87b61a3fa973c4b45
+    name: Vector Smart Object copy
+    layerId: 547
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: a0f0672f146ba46538f9d981b41253a6
+    name: Stone
+    layerId: 546
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: d167c8005d4ad4b89ad0073f92293c6a
+    name: Vector Smart Object
+    layerId: 544
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: d5441556a88d940629999a24bdd5c791
+    name: Vector Smart Object11
+    layerId: 543
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: d3601ddde287a46f88a49b955196a5dc
+    name: Vector Smart Object1
+    layerId: 574
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 1
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
