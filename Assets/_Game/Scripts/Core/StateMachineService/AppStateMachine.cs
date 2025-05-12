@@ -1,25 +1,23 @@
-using _Game.Scripts.Core.Services;
 using _Game.Scripts.Core.StateMachineService.ConcreteStates;
 using IKhom.StateMachineSystem.Runtime;
 
 namespace _Game.Scripts.Core.StateMachineService
 {
-    public class StateMachineService : IStateMachineService
+    public class AppStateMachine
     {
         public StateMachine<AppState> StateMachine { get; }
 
-        public StateMachineService()
+        public AppStateMachine()
         {
             StateMachine = new StateMachine<AppState>();
 
-            // Регистрируем состояния
+            // Register states
             StateMachine.AddState<BootstrapState>(AppState.Bootstrap);
             StateMachine.AddState<MainMenuState>(AppState.MainMenu);
             StateMachine.AddState<DuckGameState>(AppState.DuckGame);
             StateMachine.AddState<QuizGameState>(AppState.QuizGame);
-
-            // Добавляем переходы между состояниями
-            StateMachine.AddTransition(AppState.Bootstrap, AppState.MainMenu, () => true);
+            
+            //Register services in service locator
         }
 
         public void ChangeState(AppState newState)

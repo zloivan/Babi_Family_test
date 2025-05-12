@@ -1,22 +1,31 @@
-using _Game.Scripts.Core.Services;
 using UnityEngine;
 
-public class InputService : IInputService
+namespace _Game.Scripts.Core.InputService
 {
-    public Vector3 GetPointerWorldPosition(Camera camera)
+    public interface IInputService
     {
-        Vector3 mousePosition = Input.mousePosition;
-        mousePosition.z = -camera.transform.position.z;
-        return camera.ScreenToWorldPoint(mousePosition);
+        Vector3 GetPointerWorldPosition(Camera camera);
+        bool IsPointerDown();
+        bool IsPointerUp();
     }
 
-    public bool IsPointerDown()
+    public class InputService : IInputService
     {
-        return Input.GetMouseButtonDown(0) || (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began);
-    }
+        public Vector3 GetPointerWorldPosition(Camera camera)
+        {
+            Vector3 mousePosition = Input.mousePosition;
+            mousePosition.z = -camera.transform.position.z;
+            return camera.ScreenToWorldPoint(mousePosition);
+        }
 
-    public bool IsPointerUp()
-    {
-        return Input.GetMouseButtonUp(0) || (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Ended);
+        public bool IsPointerDown()
+        {
+            return Input.GetMouseButtonDown(0) || (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began);
+        }
+
+        public bool IsPointerUp()
+        {
+            return Input.GetMouseButtonUp(0) || (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Ended);
+        }
     }
 }

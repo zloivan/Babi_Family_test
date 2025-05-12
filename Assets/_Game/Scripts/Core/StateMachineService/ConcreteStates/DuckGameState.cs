@@ -2,7 +2,7 @@ using System.Threading;
 using Cysharp.Threading.Tasks;
 using IKhom.StateMachineSystem.Runtime.abstractions;
 
-namespace _Game.Scripts.Core.StateMachineService
+namespace _Game.Scripts.Core.StateMachineService.ConcreteStates
 {
     public class DuckGameState : IState<AppState>
     {
